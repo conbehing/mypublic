@@ -32,6 +32,12 @@ payload:
   - DOMAIN-SUFFIX,trade.futunn.com
   - DOMAIN-SUFFIX,support.futunn.com
   - DOMAIN-SUFFIX,download.futunn.com
+  - DOMAIN-SUFFIX,auth.futunn.com
+  - DOMAIN-SUFFIX,event-config.futunn.com
+  - DOMAIN-SUFFIX,update.futunn.com
+  - DOMAIN-SUFFIX,stock-reward.futunn.com
+  - DOMAIN-SUFFIX,collect.futuhn.com
+  - DOMAIN-SUFFIX,collect.futunn.com
   - DOMAIN,cdn.futustatic.com
   - IP-CIDR,119.28.37.77/24,no-resolve
   - IP-CIDR,43.153.233.212/24,no-resolve
